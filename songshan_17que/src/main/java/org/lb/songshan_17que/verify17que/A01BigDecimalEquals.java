@@ -3,7 +3,7 @@ package org.lb.songshan_17que.verify17que;
 import java.math.BigDecimal;
 
 /**
- * 为什么禁止使用BigDecimal的equals方法做等值比较？
+ * 01 为什么禁止使用BigDecimal的equals方法做等值比较？
  */
 public class A01BigDecimalEquals {
     public static void main(String[] args) {
