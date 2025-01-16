@@ -59,7 +59,7 @@
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-lang3</artifactId>
-                <version>3.12.0</version> <!-- 使用最新版本 -->
+                <version>3.12.0</version>
             </dependency>
 
             <!-- 谷歌guava工具包 -->
